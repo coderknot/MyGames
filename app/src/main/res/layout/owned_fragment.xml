@@ -11,6 +11,6 @@
         android:textSize="25sp"
         android:text="Owned"
         android:layout_marginTop="40dp"
-        android:id="@+id/ownedFragment" />
+        android:id="@+id/ownedTab" />
 
 </LinearLayout>
