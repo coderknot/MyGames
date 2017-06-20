@@ -1,7 +1,9 @@
-package com.coderknot.mygames;
+package com.coderknot.mygames.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.coderknot.mygames.R;
 
 public class MainActivity extends AppCompatActivity {
 
